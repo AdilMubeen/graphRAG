@@ -24,8 +24,8 @@ locally.
 First clone the repository:
 
 ```shell
-git clone https://github.com/AdilMubeen/tiny-graphrag.git
-cd tiny-graphrag
+git clone https://github.com/AdilMubeen/graphRAG.git
+cd graphrag
 ```
 
 To install the dependencies run:
