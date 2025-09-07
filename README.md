@@ -1,5 +1,5 @@
 
-# Tiny GraphRAG
+# GraphRAG
 
 A tiny 1000 line implementation of the GraphRAG algorithm using only language
 models that run locally. This implementation is designed to be easy to be
