@@ -1706,14 +1706,14 @@ transformers = ">=4.38.2"
 
 [[package]]
 name = "gliner-spacy"
-version = "0.0.10"
+version = "0.0.11"
 description = "A SpaCy wrapper for the GLiNER model for enhanced Named Entity Recognition capabilities"
 optional = false
 python-versions = ">=3.7"
 groups = ["main"]
 files = [
-    {file = "gliner-spacy-0.0.10.tar.gz", hash = "sha256:4ae1a7aea3d81872ea2ac5640d318bd4923c7d4eb1af719f1adecb64514ee46a"},
-    {file = "gliner_spacy-0.0.10-py3-none-any.whl", hash = "sha256:88532eaf43baa744ae807983cb4276ec678c5f5bee75e0ba40d33da1a05bcb10"},
+    {file = "gliner_spacy-0.0.11-py3-none-any.whl", hash = "sha256:b44836c4b4a895307aaaf15694b1c2cd100d2365eed510ca49062227be85d000"},
+    {file = "gliner_spacy-0.0.11.tar.gz", hash = "sha256:80d07933c7a2c2e457b0e0274f69962425603c7dbeaac5838c010bfaf3178091"},
 ]
 
 [package.dependencies]
@@ -7713,4 +7713,4 @@ propcache = ">=0.2.0"
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.12,<3.13"
-content-hash = "bed75ac94fff702469a95332d034c7400a2bd4bd58c71870196891d3f08e5781"
+content-hash = "65e6ec944a0fa98a142b868c3966044022733791bdb40db857f720546265d1ce"
